@@ -1,5 +1,5 @@
 # export GTK_USE_PORTAL=1
-export QT_STYLE_OVERRIDE=klassy
+export QT_STYLE_OVERRIDE=breeze
 export GDK_DEBUG=portals
 # export XDG_CURRENT_DESKTOP=KDE
 export ELECTRON_OZONE_PLATFORM_HINT=auto
